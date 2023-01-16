@@ -77,7 +77,7 @@ def chooseattack(pc, npc):
 def choosedefense(pc, npc):
   print("""
   -------Choose your defense-------
-  1.Jump    2. Duck
+  1.Jump     2. Duck
   """)
   chosen_defense = 0
   while chosen_defense not in input_list:
