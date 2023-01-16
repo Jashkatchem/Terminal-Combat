@@ -1,0 +1,19 @@
+Hello and welcome to TERMINAL COMBAT!
+
+The game is a simulaiton of a sparring match between two FIGHTERS.
+Both of you will begin the fight with 100 STAMINA and lose it as the FIGHT
+progresses. 
+
+You lose STAMINA for being hit and will lose some as the FIGHT goes on.
+No one can JUMP and DUCK forever. 
+
+THe first FIGHTER to run out of STAMINA loses. 
+
+Each ROUND you will pick an OFFENSIVE MOVE and a DEFENSIVE MOVE.
+
+DUCKING dodges PUNCHING and JUMPING dodges KICKING
+
+Sometimes when your HIT connects you will strike your opponent particularly hard. 
+This is called a CRITICAL HIT. 
+
+Good luck and have fun!
