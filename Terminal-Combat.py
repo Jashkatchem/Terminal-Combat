@@ -54,6 +54,3 @@ battle_beth = Fighter("Battle Beth", default_moves)
 
 fighter_list = [fighter_fred, battle_beth]
 
-#punch.miss(fighter_fred, battle_beth, duck)
-
-battle_beth.prepare_turn(punch, jump)
